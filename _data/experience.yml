@@ -4,7 +4,7 @@
   position: Principal
   duration: January, 1991 &mdash; Present
   summary: As a principal and technical architect for Zanden Communications, worked with a variety of clients in a number of different industries:|
-    <h3>Transaction Response Formats</h2>
+    <h4>Transaction Response Formats</h4>
         <p><span>Each transaction response contains an HTTP status code, along with a JSON response body, or a JSON error body. HTTP status of 200 is always associated with a JSON response body, an HTTP non-200 is associated with a JSON error body.</p>
         <h2>Cross-Origin Resource Sharing</h2>
         <p>This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with the <a href="https://www.w3.org/TR/cors/">W3C specification</a>, allowing cross-domain communication from the browser. All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.</p>
