@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: API Development
+  description: Adept at API Development and lifecycle management, including the use of tools such as Swagger and Redoc. 
+- skill: Cloud Services
+  description: Knowledge of AWS Cloud infrastructure setup and maintenance.  Familiar with cloud-based log management services such as
+    Papertrail and Sumo Logic.
+- skill: Communications Programming
+  description: Experienced with HTTP/REST gateway's and middleware, plus the use of communications
+    frameworks such as Spring Boot and Apache Mina.  Familiar with the setup and operation of IBM legacy systems and legacy communications programming.
+- skill: Mobile Development
+  description: Experienced in Android application development and with the use of mobile
+    frameworks such as Corona.
+- skill: Computer Languages
+  description: Proficient in multiple computer languages, including Java, C# and RPG/COBOL. 
+- skill: EMV/PCI
+  description: Experienced with EMV and PCI requirements for card applications.  Trained on secure coding practices.
