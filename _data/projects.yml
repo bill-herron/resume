@@ -2,15 +2,31 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Data Science
+  role: Gaming Payments Data Analysis
+  duration: Visualizations and Dashboards
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Leverage my knowledge of the industry and experience
+    in application development and design into a role that includes an 
+    opportunity to analyze payments data and discover hidden patterns 
+    and relationships that will be useful to both customers and the
+    business.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Gaming Payments Innovation
+  role: Innovation Center
+  duration: R&D Hub
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Participate in a company's innovation efforts as 
+    a member of the Innnovation Center.  Apply knowledge of payments
+    applications and emerging technologies to iterate, evolve, and incubate 
+    useful and practical payment ideas and implementations.
+
+# Springfield Community Outreach Group
+- project: API Modernization
+  role: Improving Payments Interface
+  duration: DEV/SEC OPS
+  # url: "#"
+  description: Improve legacy interfaces to encompass cloud, IoT, and mobile – all of which are required to create modern experiences for customers and partners.
+    Emphasis on DEV/SEC OPS, particularly on intrusion detection and reporting and securing the perimeter from outside
+    attacks.

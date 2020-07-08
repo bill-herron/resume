@@ -14,6 +14,8 @@
   description: Thorough knowledge of AS/400 platform, with an emphasis on systems integration and communications programming.
    Completed numerous projects for companies of all sizes, from small startups to Fortune 50.
 - skill: Computer Languages
-  description: Proficient in multiple computer languages, including Java, C# and RPG/COBOL. 
+  description: Proficient in multiple computer languages, including Java, R/RStudio, C# and RPG/COBOL.  Experienced with the use of HTML/CSS and Javascript framworks such as Bootstrap. 
+- skill: Data Analytics
+  description: Data analysis and visualization using R and RStudio.  Experienced with the creation of data portals using tools such as Shiny.
 - skill: EMV/PCI
-  description: Experienced with EMV and PCI requirements for card applications.  Trained on secure coding practices.
+  description: Experienced with EMV, PCI requirements and secure coding guidelines for secure payment applications.
