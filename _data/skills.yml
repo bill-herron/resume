@@ -16,6 +16,6 @@
 - skill: Computer Languages
   description: Proficient in multiple computer languages, including Java, R/RStudio, C# and RPG/COBOL.  Experienced with the use of HTML/CSS and Javascript framworks such as Bootstrap. 
 - skill: Data Analytics
-  description: Data analysis and visualization using R and RStudio.  Experienced with the creation of data portals using tools such as Shiny.
+  description: Data analysis and visualization using R and RStudio.  Experienced with the creation of data portals using packages such as Shiny.
 - skill: EMV/PCI
   description: Experienced with EMV, PCI requirements and secure coding guidelines for secure payment applications.
